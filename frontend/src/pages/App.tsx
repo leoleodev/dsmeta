@@ -1,7 +1,7 @@
 import { Header } from "../components/Header";
 import { Salescard } from "../components/Salescard";
 
-import '../styles/global.css';
+
 
 function App() {
   return(
